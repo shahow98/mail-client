@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86094646-183e-4884-b117-83ed09075a34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YX3fFL9YkZMg9XSo611bjgDEVb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\mail-client\src\main\java\entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MailClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.shahow.MailClientApplication" />
+      <module name="mail-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MailClientApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86094646-183e-4884-b117-83ed09075a34" name="Default Changelist" comment="" />
+      <created>1583075212311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583075212311</updated>
+      <workItem from="1583075214946" duration="16000" />
+      <workItem from="1583135447578" duration="12020000" />
+      <workItem from="1583327543050" duration="150000" />
+      <workItem from="1583327712017" duration="39000" />
+      <workItem from="1583328249053" duration="148000" />
+      <workItem from="1583328581528" duration="1711000" />
+      <workItem from="1583330339222" duration="3911000" />
+      <workItem from="1583334804443" duration="6538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="92" key="#Deployment" timestamp="1583332178369">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="92" key="#Deployment/0.0.1440.860@0.0.1440.860" timestamp="1583332178369" />
+    <state x="525" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1583242682401">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1583242682401" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1583421936993">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583421936993" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1583421936990">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1583421936990" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1583421936990">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1583421936990" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1583421936993">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1583421936993" />
+    <state x="223" y="16" key="SettingsEditor" timestamp="1583162866625">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="223" y="16" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583162866625" />
+    <state x="450" y="201" key="extract.method.dialog" timestamp="1583244380963">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="201" key="extract.method.dialog/0.0.1440.860@0.0.1440.860" timestamp="1583244380963" />
+  </component>
+</project>
