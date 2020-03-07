@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86094646-183e-4884-b117-83ed09075a34" name="Default Changelist" comment="" />
+    <list default="true" id="86094646-183e-4884-b117-83ed09075a34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/client/MailClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/shahow/client/MailClient.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -27,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YX3fFL9YkZMg9XSo611bjgDEVb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -84,7 +94,7 @@
       <workItem from="1583328249053" duration="148000" />
       <workItem from="1583328581528" duration="1711000" />
       <workItem from="1583330339222" duration="3911000" />
-      <workItem from="1583334804443" duration="6538000" />
+      <workItem from="1583334804443" duration="8468000" />
     </task>
     <servers />
   </component>
@@ -100,22 +110,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="525" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1583242682401" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1583421936993">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1583590604766">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583421936993" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1583421936990">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583590604766" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1583590604766">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1583421936990" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1583421936990">
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1583590604766" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1583590604765">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1583421936990" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1583421936993">
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1583590604765" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1583590604766">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1583421936993" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1583590604766" />
     <state x="223" y="16" key="SettingsEditor" timestamp="1583162866625">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

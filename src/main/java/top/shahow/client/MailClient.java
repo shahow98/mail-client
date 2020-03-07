@@ -1,5 +1,7 @@
 package top.shahow.client;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sun.jndi.toolkit.url.Uri;
 import org.apache.http.client.utils.URIBuilder;
 import org.apache.http.entity.ContentType;
@@ -37,6 +39,7 @@ public class MailClient {
         this.addrUri = addrUri;
         this.userName = username;
         this.password = password;
+        drawStartFlag();
         initClient();
     }
 
@@ -77,11 +80,8 @@ public class MailClient {
         return flag;
     }
 
-    public boolean send(MessageBuilder builder) {
-        return send(builder.getMessage(), builder.getReceiver());
-    }
 
-    private boolean send(Message message, Receiver receiver) {
+    public boolean send(MessageBuilder builder) {
         boolean flag = false;
         CloseableHttpClient httpClient = HttpClients.createDefault();
         List<NameValuePair> account = new ArrayList<>();
@@ -94,7 +94,13 @@ public class MailClient {
         } catch (URISyntaxException e) {
             System.err.println("URI building fail!");
         }
-        StringEntity body = new StringEntity("{\"message\":{\"title\":\"生日快乐\",\"content\":\"生日快乐，好\",\"addresser\":\"柯泽鸿\"},\"receiver\":{\"to\":[\"1332892354@qq.com\"],\"cc\":[]}}", ContentType.APPLICATION_JSON);
+        StringEntity body = null;
+        try {
+            ObjectMapper mapper = new ObjectMapper();
+            body = new StringEntity(mapper.writeValueAsString(builder), ContentType.APPLICATION_JSON);
+        } catch (JsonProcessingException e) {
+            System.err.println("Object transform String is fail!");
+        }
         HttpPost post = new HttpPost(requestUri);
         post.setEntity(body);
         post.setHeader("Content-Type", "application/json;charset=utf8");
@@ -125,5 +131,23 @@ public class MailClient {
     private class ApiMapping {
         public static final String TEST = "/api/test/connection";
         public static final String SENDER = "/api/mail/sender";
+    }
+
+    private void drawStartFlag(){
+        System.out.println("============================================");
+        System.out.println("\n" +
+                "            .-\"''-.  _\n" +
+                "          .'       `( \\\n" +
+                "        @/            ')   ,--,__,-\"\n" +
+                "        /        /      \\ /     /   _/\n" +
+                "      __|           ,   |/         /\n" +
+                "    .~  `\\   / \\ ,  |   /\n" +
+                "  .~      `\\    `  /  _/   _/\n" +
+                ".~          `\\  ~~`__/    /\n" +
+                "~             `--'/\n" +
+                "             /   /    /    \n" +
+                "            /  /'    /");
+        System.out.println("============================================");
+        System.out.println("::  shahow mail client  ::                 (v1.0.0.RELEASE)");
     }
 }
