@@ -15,6 +15,6 @@ http://www.shahow.top:7890/api/user/register?email=YOUR_EMAIL&password=YOUR_PASS
 ```
 MailClient client = new MailClient("www.shahow.top", "YOUR_EMAIL", "YOUR_PASSWORD");
 client.send(new MessageBuilder()
-      .addMessage("title", "subject", "content")
-      .addReceiver("1332892354@qq.com"));
+      .addMessage("TIELE", "SUBJECT", "CONTENT")
+      .addReceiver("TO_EMAIL"));
 ```
