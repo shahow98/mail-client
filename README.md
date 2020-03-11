@@ -1,7 +1,7 @@
 # mail-client
  邮件服务客户端
 
-###### 1 Add this to pom.xml(need my github token or download jar):  
+###### 1 Add this to pom.xml(need my github token or download .jar Orz):  
 ```
 <dependency>
   <groupId>top.shahow</groupId>
