@@ -1,12 +1,12 @@
 # mail-client
  邮件服务客户端
 
-###### 1 Add this to pom.xml:  
+###### 1 Add this to pom.xml(need my github token or download jar):  
 ```
 <dependency>
   <groupId>top.shahow</groupId>
   <artifactId>mail-client</artifactId>
-  <version>1.0.0.release</version>
+  <version>1.0.1.release</version>
 </dependency>
 ```
 ###### 2 register:  
