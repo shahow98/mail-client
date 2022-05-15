@@ -1,13 +1,16 @@
-package top.shahow.entity;
-
+package top.shahow.entity.dto;
 
 /**
- * 邮件消息
+ * @author kezh
+ * @date 2022-05-15
  */
-public class Message {
+
+public class SendMsgDTO {
     private String title;
+
     private String content;
-    private String addresser;
+
+    private String sender;
 
     public String getTitle() {
         return title;
@@ -25,11 +28,11 @@ public class Message {
         this.content = content;
     }
 
-    public String getAddresser() {
-        return addresser;
+    public String getSender() {
+        return sender;
     }
 
-    public void setAddresser(String addresser) {
-        this.addresser = addresser;
+    public void setSender(String sender) {
+        this.sender = sender;
     }
 }

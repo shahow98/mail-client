@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="86094646-183e-4884-b117-83ed09075a34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/MailClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/shahow/MailClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/builder/MessageBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/client/MailClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/shahow/client/MailClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/entity/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/entity/Receiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/mail-client.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="s89k3ytb" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -29,39 +46,28 @@
         <option name="userSettingsFile" value="D:\maven\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1YX3fFL9YkZMg9XSo611bjgDEVb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mail-service" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/github/mail-client/src/main/java/top/shahow/entity/dto"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\mail-client\src\main\java\top\shahow\entity\dto" />
       <recent name="D:\github\mail-client\src\main\java\entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.shahow.exception" />
     </key>
   </component>
   <component name="RunManager">
@@ -78,6 +84,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,46 +112,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="312" y="92" key="#Deployment" timestamp="1583332178369">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="312" y="92" key="#Deployment/0.0.1440.860@0.0.1440.860" timestamp="1583332178369" />
-    <state x="525" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1583242682401">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="525" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1583242682401" />
-    <state x="500" y="129" key="FileChooserDialogImpl" timestamp="1583898085742">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="500" y="129" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1583898085742" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1583939846904">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583939846904" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1583939846904">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1583939846904" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1583939846904">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1583939846904" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1583939846904">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1583939846904" />
-    <state x="223" y="16" key="SettingsEditor" timestamp="1584280418799">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="223" y="16" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584280418799" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1584284077268">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584284077268" />
-    <state x="450" y="201" key="extract.method.dialog" timestamp="1583244380963">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="450" y="201" key="extract.method.dialog/0.0.1440.860@0.0.1440.860" timestamp="1583244380963" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
