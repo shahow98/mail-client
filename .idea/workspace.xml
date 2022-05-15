@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86094646-183e-4884-b117-83ed09075a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/MailClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/shahow/MailClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/builder/MessageBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/client/MailClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/shahow/client/MailClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/entity/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/shahow/entity/Receiver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/mail-client.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
